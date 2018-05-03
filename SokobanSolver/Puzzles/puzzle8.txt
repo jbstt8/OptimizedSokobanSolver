@@ -1,0 +1,9 @@
+﻿7 7
+2 3
+...wwww
+...wwww
+.c.wwwt
+ww.wwwt
+ww....$
+w.c.w..
+w...www
